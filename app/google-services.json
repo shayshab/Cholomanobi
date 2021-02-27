@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950029601874",
+    "project_id": "cholo-manobi",
+    "storage_bucket": "cholo-manobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950029601874:android:683dc05bd32445a7abe38b",
+        "android_client_info": {
+          "package_name": "com.anika.cholomanobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950029601874-bm4tdc69hj7d16dsc13bjcc5l5m2l3nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCokTr6at_YptgTKwPw7AQCN4WaIUDOaZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950029601874-bm4tdc69hj7d16dsc13bjcc5l5m2l3nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
