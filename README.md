@@ -1,3 +1,3 @@
-# eCart
-Wrteam eCart Customer App
+# Cholo Manobi
+
 Shayshab Azad
